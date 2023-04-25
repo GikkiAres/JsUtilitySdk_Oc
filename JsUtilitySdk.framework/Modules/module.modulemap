@@ -1,0 +1,6 @@
+framework module JsUtilitySdk {
+  umbrella header "JsUtilitySdk.h"
+
+  export *
+  module * { export * }
+}
