@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
 	# 这个名字是framework的名字.
   spec.name         = "JsUtilitySdk"
-  spec.version			= "0.0.34"
+  spec.version			= "0.0.37"
   spec.summary      = "soucre源为本地目录"
   spec.description  = <<-DESC
 	The utility contanis:
@@ -27,12 +27,14 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
 	
 	#	表示使用spec.version
+    # demo
 #	spec.source = { :git => "https://gitee.com/GikkiAres/jso-utility-sdk-demo.git" ,:tag => "0.0.35"}
-spec.source = { :git => "https://gitee.com/GikkiAres/jso-utility-sdk-demo.git" ,:tag => spec.version.to_s}
+    # framework
+spec.source = { :git => "https://github.com/GikkiAres/JsUtilitySdk_Oc.git" ,:tag => spec.version.to_s}
 	## ok
 
-	spec.vendored_frameworks = "JsUtilitySdk.framework"
-	spec.resources = "JsUtilitySdkBundle.bundle"
+	spec.vendored_frameworks = "#{spec.version.to_s}/JsUtilitySdk.framework"
+	# spec.resources = "./spec.version.to_s/test.bundle"
 	
 	
   spec.frameworks  = "UIKit", "Foundation"

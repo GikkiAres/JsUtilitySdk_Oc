@@ -60,13 +60,17 @@
 		<data>
 		H4kTtl7Vn8C0gjS5YZiH8tIodJ4=
 		</data>
+		<key>Headers/JsCrashManager.h</key>
+		<data>
+		Kzjd3I6ATDszrSAZ+Q1195IqfFg=
+		</data>
 		<key>Headers/JsCvcIl.h</key>
 		<data>
-		UEsF9AS4jfaFOhSCUBQCQsPw0Zk=
+		08oyM1EHBu8Dqo8DuBJyUCYKmPk=
 		</data>
 		<key>Headers/JsCvcIlModel.h</key>
 		<data>
-		n8D57veOm+X2ah/GzpAzPGtfyR8=
+		TB8UXCsfrwv5qwMPVP6GhlPVyNE=
 		</data>
 		<key>Headers/JsCvcIlStyle.h</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>Headers/JsFileManager.h</key>
 		<data>
-		N1S4+gDPiLBFfMSkNUo1HAm7218=
+		bQdyR2ZI1qJvbi6W8JJ0T8wvQ0s=
 		</data>
 		<key>Headers/JsGeometryManager.h</key>
 		<data>
@@ -116,6 +120,10 @@
 		<data>
 		MZBfRjFDs7ZhjFHrWKslzZKXOp0=
 		</data>
+		<key>Headers/JsInputView.h</key>
+		<data>
+		bHULNPGCoGSBm6C3Ozk2IlyATNM=
+		</data>
 		<key>Headers/JsLikeAnimationManager.h</key>
 		<data>
 		B2ymMt3nVPfCJ53W+YMdLXczSVI=
@@ -138,15 +146,15 @@
 		</data>
 		<key>Headers/JsLogEvent.h</key>
 		<data>
-		tF+tTzu9l74X4WssSw0tUU6dbbo=
+		XIZkjj5N+wCqeM9nV4TaGfey0YE=
 		</data>
 		<key>Headers/JsLogListViewController.h</key>
 		<data>
-		1Xm+ZndE2+KnKERCzecUR+KGj78=
+		7y7044df4k8GsEL0DobFyB3cyW0=
 		</data>
 		<key>Headers/JsLogManager.h</key>
 		<data>
-		bv76SGv4gCJPcZU0h6thkceRPX8=
+		gF3lQLoOvGsRMWSLBFPWCDRTgeo=
 		</data>
 		<key>Headers/JsLogManagerInterface.h</key>
 		<data>
@@ -158,7 +166,7 @@
 		</data>
 		<key>Headers/JsLogTargetDailyRollingFile.h</key>
 		<data>
-		JoDLKUpy24YyLv5IacoqYzZSmqE=
+		ddUCTC713uXetI5LOduQDoA2528=
 		</data>
 		<key>Headers/JsLogTargetInterface.h</key>
 		<data>
@@ -166,7 +174,7 @@
 		</data>
 		<key>Headers/JsLogger.h</key>
 		<data>
-		a046q0Kq36XnFltG2O8fK3Lf4CY=
+		N+A3/G7GGObKXeM+TO9dtNe+2Bc=
 		</data>
 		<key>Headers/JsLoginViewController.h</key>
 		<data>
@@ -188,6 +196,10 @@
 		<data>
 		H93F0jsYf3cJKfpI1HpDIIITXWA=
 		</data>
+		<key>Headers/JsMediaInfoManager.h</key>
+		<data>
+		nI83vn/xdZSb9rWw+UgcxHgAT1E=
+		</data>
 		<key>Headers/JsMenuItemStyle.h</key>
 		<data>
 		0VnAzCs1o9U/4CzcNieCUlRzPYM=
@@ -202,7 +214,7 @@
 		</data>
 		<key>Headers/JsMenuItemVm.h</key>
 		<data>
-		mMa/WJwbvvk0YooJkPy/0z7CksU=
+		D3Fu2ew1aChsGV+nu6HRrDejJWo=
 		</data>
 		<key>Headers/JsMenuView.h</key>
 		<data>
@@ -211,6 +223,14 @@
 		<key>Headers/JsMenuViewStyle.h</key>
 		<data>
 		soqgFS0pmKMj/9qwKxYcHm/PCCQ=
+		</data>
+		<key>Headers/JsMessageReminderView.h</key>
+		<data>
+		I/v+zanllVEBsNXyOOTSSdswXgE=
+		</data>
+		<key>Headers/JsMessageReminderViewVm.h</key>
+		<data>
+		oFxpo99YKogw7xHl2WIKIHAlvFE=
 		</data>
 		<key>Headers/JsNavigationBar.h</key>
 		<data>
@@ -226,11 +246,19 @@
 		</data>
 		<key>Headers/JsNetworkReachablitiyManagerA.h</key>
 		<data>
-		eFKZu3cCsrQyJEaeh+1GblUPms0=
+		ZGx3LpVkI8Ww7/SRzvQdwOPyhhg=
+		</data>
+		<key>Headers/JsOrientationManager.h</key>
+		<data>
+		7s+c8lON5w4cnDaxE/hVbfU+1Yc=
 		</data>
 		<key>Headers/JsPageGroupView.h</key>
 		<data>
 		OJzNL5t0h3TuZJqAjrXPjBg8R7o=
+		</data>
+		<key>Headers/JsPasteboardManager.h</key>
+		<data>
+		n20ug2rJahYV5N6aISzhWAoD5iU=
 		</data>
 		<key>Headers/JsQrCodeManager.h</key>
 		<data>
@@ -238,7 +266,7 @@
 		</data>
 		<key>Headers/JsRequestBaseData.h</key>
 		<data>
-		hbhEUqj+2f+0QOQi2Sfhy5ky3xA=
+		2UvssCCalyhZUV9acCuln+6n2I4=
 		</data>
 		<key>Headers/JsRequestBuilder.h</key>
 		<data>
@@ -258,7 +286,7 @@
 		</data>
 		<key>Headers/JsRequestManager.h</key>
 		<data>
-		DwoTGAygUiSJhFijHenCb8uyh08=
+		0LG5jVOdFGBsVWv6LWoc71eYzmg=
 		</data>
 		<key>Headers/JsRequestManagerInterface.h</key>
 		<data>
@@ -290,7 +318,7 @@
 		</data>
 		<key>Headers/JsTextFieldVm.h</key>
 		<data>
-		2/bof7pOHtH5axscfcIMvXWRgNk=
+		IykVJz3O9WSydeZtnUESCmo6mtY=
 		</data>
 		<key>Headers/JsTextView.h</key>
 		<data>
@@ -318,11 +346,11 @@
 		</data>
 		<key>Headers/JsUnitManager.h</key>
 		<data>
-		WpvjYC7SRbZUaqFMEwb3+CS0DNE=
+		X3KA69lo7SJ8zRMGsrR/ONSWars=
 		</data>
 		<key>Headers/JsUtilitySdk.h</key>
 		<data>
-		hYZD6AfTjDK0qRN9zkfrhPvHuZI=
+		XWBzm3BtUXwpsmGHdkHsJ73u+qk=
 		</data>
 		<key>Headers/JsVersionManager.h</key>
 		<data>
@@ -330,11 +358,11 @@
 		</data>
 		<key>Headers/JsView.h</key>
 		<data>
-		xL8Grl5gytX061vToyO+AcjLwaY=
+		t/bsZXc1yq6kRSQlMz56VwQQlMs=
 		</data>
 		<key>Headers/JsViewController.h</key>
 		<data>
-		5X+CN3PfR5pmYo6kceAJ6S8fHG8=
+		F0zqOfqnuQB9l4nqM0djLlVLbH8=
 		</data>
 		<key>Headers/JsViewHIli.h</key>
 		<data>
@@ -382,7 +410,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		d4xt6cjeBeDIStc78iWvuYO1m/s=
+		BKZasQJQmWI5H1CF2gnNChLB/Qs=
 		</data>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/BarrageOff.png</key>
 		<data>
@@ -634,7 +662,7 @@
 		</data>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/Reminder/Color/error.png</key>
 		<data>
-		Ik0G78gh7JluLQ+qBd02q4T+1Ps=
+		7/OH9qtxm8j08ntOVMIlay13ZCo=
 		</data>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/Reminder/Color/info.png</key>
 		<data>
@@ -692,6 +720,10 @@
 		<data>
 		ZTJQ735RBqMMmVTQu7rS2NabmIg=
 		</data>
+		<key>JsUtilitySdkBundle.bundle/Icon.bundle/Video.png</key>
+		<data>
+		ZELj5Xk8Of5SpfAsU9tAarwZM94=
+		</data>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/gaoinputbox_keyboard.png</key>
 		<data>
 		LH4ELqBgETdAso5xb5dXW6xzJao=
@@ -730,7 +762,7 @@
 		</data>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		m5EIeu46lfbd92EMuwjkOqcdUUk=
+		xHZLH5LQo/5Y1LRzK9X+4i6NCiY=
 		</data>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -738,15 +770,15 @@
 		</data>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		sq/LCA8htO3hA+/0wBBCijlnNJg=
+		r2FSBUIu2ZyvGuo0i5glYmt7Pnk=
 		</data>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		+UBML4HxV/+D8RE0U2eYgtbPB3I=
+		LUC78qx60UMZ3abw2nhgRBt4p28=
 		</data>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		C87f6glgyQYAuGUAga6xSYLCRsQ=
+		yEed0rvXstrkiZZ07tC8vgo38tM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -865,18 +897,25 @@
 			uYfNQAmJo1I5suTFLEiC0/kr8VtWJTJ7Jb1ObYM1POo=
 			</data>
 		</dict>
+		<key>Headers/JsCrashManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			13+83oEn7fgMD6E5Qad/DIEUiFsTGmIHlMxeQsLf1aU=
+			</data>
+		</dict>
 		<key>Headers/JsCvcIl.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q0xeZcqII2a7LKmWWlP+lsWYGgoixOvueVwM52gToc0=
+			4SWuDRePMb/YoMIBd3M45yycZWOYjZJvJ+ZHM66r4ns=
 			</data>
 		</dict>
 		<key>Headers/JsCvcIlModel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oid5Al3tZEWXYEK3cXpGtlAuEVKV8DhgiDkALhiCGZo=
+			8K/bmlFoqFDkLZSKIiUY0hpd26aHja6JLO+dUQp8Dcw=
 			</data>
 		</dict>
 		<key>Headers/JsCvcIlStyle.h</key>
@@ -918,7 +957,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfCyIUDFgXu7DLuzuBIsY+ge7cgCqZLsjiJ5HiBPd0I=
+			QxVvr5p9m6fKwECR4WWGKeGgzJiieIYWvtYOO75bJ6U=
 			</data>
 		</dict>
 		<key>Headers/JsGeometryManager.h</key>
@@ -963,6 +1002,13 @@
 			HWlFvHx4aqZStmJmiVG3rv9x/e+nsd9BA/ueYaceaOI=
 			</data>
 		</dict>
+		<key>Headers/JsInputView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AS/YZSZwPnC7833uA0pfqeNsL5dWjzY1hTyNMOAZvmI=
+			</data>
+		</dict>
 		<key>Headers/JsLikeAnimationManager.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1002,21 +1048,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fcnMFHeoKdtqfzeRltAuu3MFp5KqWLNZqr+jfj47Erk=
+			7cmF6nG/KEQ18nT/KHFsAD8Khsk2cHvYcK5IDlLybnc=
 			</data>
 		</dict>
 		<key>Headers/JsLogListViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I0+l44AKldimy/km1GBX591qZx17PuQ8xVv6SCoPgRE=
+			tDPTwqgcMKeUp4Cv4Mc0BXakT7X8p0/yAQH/i+kCFAQ=
 			</data>
 		</dict>
 		<key>Headers/JsLogManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K1wFwv7wbGJEIRRszMfJGfnXFryxSDSAegxfQEw4WrA=
+			sCJkmTdRKxSl/6JIfTdlfgc6i/WyHb8ycRsvriO+aBA=
 			</data>
 		</dict>
 		<key>Headers/JsLogManagerInterface.h</key>
@@ -1037,7 +1083,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V4NWtEqmpwFj1/Roj5k5UhnDAc9AUMVqSNTSNlA5jXw=
+			He55dc9t6XBbWlS9/CG+yzIv4PmQ0DoCq+jvpIzoBIU=
 			</data>
 		</dict>
 		<key>Headers/JsLogTargetInterface.h</key>
@@ -1051,7 +1097,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfTKVRBYTBGEMynO3HQdGn+zYL/JYFJhlGYFEMlYhpE=
+			jEtPwj7sA80tyvGh9I96LwmekpNe6cRxXxmL7OxN2hc=
 			</data>
 		</dict>
 		<key>Headers/JsLoginViewController.h</key>
@@ -1089,6 +1135,13 @@
 			WZ14kv0Rl7Poh1hI2OpUqsoDRKORNnS9RWJ/LalGHAY=
 			</data>
 		</dict>
+		<key>Headers/JsMediaInfoManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4uhQTHGZwQXs/L/0bjC+4iRiNYBQ1q/yKUZP+t1s3ec=
+			</data>
+		</dict>
 		<key>Headers/JsMenuItemStyle.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1114,7 +1167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdX+8Xu+SxyyWRrowwHMuDSWlhR38ycfEj5Z2dUSz9g=
+			lDpqIXk430LkLLHbgCTquTBCrkQHRDGWuBlUitKsF8o=
 			</data>
 		</dict>
 		<key>Headers/JsMenuView.h</key>
@@ -1129,6 +1182,20 @@
 			<key>hash2</key>
 			<data>
 			tGQabirlI+ZK5FoyaRCfrINXsWnRNnhbCtaQ8FpiiG0=
+			</data>
+		</dict>
+		<key>Headers/JsMessageReminderView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ocHTh0uNu9wEHLvd3VPRfxSRfKehZdfQm/CJYV4Rwz4=
+			</data>
+		</dict>
+		<key>Headers/JsMessageReminderViewVm.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rgNKOVMHIeaNDk/rE+3MaoPN1sC8peCI7pw/dn3M1n4=
 			</data>
 		</dict>
 		<key>Headers/JsNavigationBar.h</key>
@@ -1156,7 +1223,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ft1ZEzElwCGGy9XtuJVqxB+HI3E88ecAc1Eh/RUYu7U=
+			6ybNOclhLrdHqGVDQlRDDdrmGwxE8ohSsKmzV+UYcY8=
+			</data>
+		</dict>
+		<key>Headers/JsOrientationManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yF+IgzXdcOXT0r4k6UnymwJPs+fkeKXDvzqaNtUtLM4=
 			</data>
 		</dict>
 		<key>Headers/JsPageGroupView.h</key>
@@ -1164,6 +1238,13 @@
 			<key>hash2</key>
 			<data>
 			O1Z21Fm8RsRqUNqEGPdC1OPuj6KZ6GpjbFjTE0EePkQ=
+			</data>
+		</dict>
+		<key>Headers/JsPasteboardManager.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kKxgWUEBDsIuWWqbgZ5O/m1GTQ/gJ1JMkkYapvQtTd4=
 			</data>
 		</dict>
 		<key>Headers/JsQrCodeManager.h</key>
@@ -1177,7 +1258,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BopXYiOkCYuRGtFKuAzzmFJ/B7kCQLVZDTqzhoDTju0=
+			LVN+X+cQgF7hRJ3nCvQfKDnxVMA4v3cO1B3HVj1ocNE=
 			</data>
 		</dict>
 		<key>Headers/JsRequestBuilder.h</key>
@@ -1212,7 +1293,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lTKf2NyVxsfBWCu+kVxVUaLhUd0Yl0baDUWB/6ENLfg=
+			Ko9k6wmoY9KUAcMK0G+/OaLAbatiw9l3M/360eMK6fs=
 			</data>
 		</dict>
 		<key>Headers/JsRequestManagerInterface.h</key>
@@ -1268,7 +1349,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BXAvKE/EYo1/SjVwM+bF+WAfJmJTevZ+b/6gv+AMnTg=
+			IdXO/Unx1u8krVXJRHJqtuc4esHIoP9LG0Z19qbMz9U=
 			</data>
 		</dict>
 		<key>Headers/JsTextView.h</key>
@@ -1317,14 +1398,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gogj9rMOUQ7ipNHRwdbeTgeNY76K3ieJKX3Me5eunKo=
+			wpARo3imYkjOFnXKTatAOKBHHOUmIj0WVfRpCynlTg0=
 			</data>
 		</dict>
 		<key>Headers/JsUtilitySdk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ucr/QCvELbsUhRoQXeDguWu/BQFeMYh4CROcpKN0Thg=
+			8STJ09x5l9OhJpY6lf+oEESecRAS6SXBJLef9oGibNA=
 			</data>
 		</dict>
 		<key>Headers/JsVersionManager.h</key>
@@ -1338,14 +1419,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cJGacqc4/eiKn4qmfmAry1igaKKS5kVK3VX6qnUfkII=
+			701CuTGDY9TfL8a494DWmM691QkDZn6qWwL8h4g5s08=
 			</data>
 		</dict>
 		<key>Headers/JsViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nTmHiUjDNgR990X7AdZlOEf7tyNamQMfmDMx701UjH4=
+			6h4bulwcwXSHnAu99IeSZYPwQtggpz2sfV6Kjl0fkCU=
 			</data>
 		</dict>
 		<key>Headers/JsViewHIli.h</key>
@@ -1863,7 +1944,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vCYPX5+C5YFtK1YM/9b5APBf1YKJ/RqL1lzL1S19OcU=
+			MSQec673HReZAJMSpyqeTzIBJnL4F2Rd6oPutN2Uypg=
 			</data>
 		</dict>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/Reminder/Color/info.png</key>
@@ -1964,6 +2045,13 @@
 			JgiFXIEK+xLZecnwjzXUMWYQHee7rt0LP+xXXNmJIFM=
 			</data>
 		</dict>
+		<key>JsUtilitySdkBundle.bundle/Icon.bundle/Video.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BCFKiKMaeon5A/M6If7+DmonScrtGM7Ba9cTtfIvB0c=
+			</data>
+		</dict>
 		<key>JsUtilitySdkBundle.bundle/Icon.bundle/gaoinputbox_keyboard.png</key>
 		<dict>
 			<key>hash2</key>
@@ -2031,7 +2119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OOhCDpMJ1FqGkD7ZKDEwhZQv/GU8gCRpNu+ou47zqf0=
+			zPTvU0/COv5/xCo5fsQAmllIRmytvHZTK8lRGwFewDQ=
 			</data>
 		</dict>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeRequirements</key>
@@ -2045,21 +2133,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NieU2IQBk++fGEo1Pr06D2o+1nkTi09QK/fncEaeJQo=
+			nnjYyO046zXZfEOMRoj9lGNppch4p5NGto5ngSJfy+M=
 			</data>
 		</dict>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5v/YEtv4CsD96FpXLxhA4EaMrCAWaH5GuL09jJZk1o=
+			dEJBG1RjSkYQvDut+2Nl2JPeap86Gpg/UQg5U8+ro3I=
 			</data>
 		</dict>
 		<key>JsUtilitySdkBundle.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5pK0nEDc06jhHZKuU77a/yeUHT6CD/xjcKwGoJSTP9A=
+			MowZ7rIlnL84xM1akbbDE+OxMg4j370x/tvOQNwgyDA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
