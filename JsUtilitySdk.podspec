@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
 
-	# 这个名字是framework的名字.
+	# 这个名字是pod库的名字.
   spec.name         = "JsUtilitySdk"
   spec.version			= "0.0.37"
   spec.summary      = "soucre源为本地目录"

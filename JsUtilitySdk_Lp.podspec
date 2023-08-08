@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
 	# 这个名字是framework的名字.
-  spec.name         = "JsUtilitySdkFramework"
-  spec.version			= "0.0.37"
+  spec.name         = "JsUtilitySdk"
+  spec.version			= "0.0.38"
   spec.summary      = "Total utility"
 
   # This description is used to generate tags and improve search results.

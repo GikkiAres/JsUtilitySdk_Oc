@@ -19,7 +19,7 @@
 
 
 //c的快捷宏.
-#ifdef DEBUG
+#ifdef DEBUG2
 #define jslogv_c(_context,_contentType,_format,...) [[JsLogManager sharedInstance] logWithLevel:JsLogLevelVerbose target:JsLogTargetOptionConsole context:_context contentType:_contentType format:_format,##__VA_ARGS__]
 #define jslogd_c(_context,_contentType,_format,...) [[JsLogManager sharedInstance] logWithLevel:JsLogLevelDebug target:JsLogTargetOptionConsole context:_context contentType:_contentType format:_format,##__VA_ARGS__]
 #define jslogi_c(_context,_contentType,_format,...)[[JsLogManager sharedInstance] logWithLevel:JsLogLevelInfo target:JsLogTargetOptionConsole context:_context contentType:_contentType format:_format,##__VA_ARGS__]
